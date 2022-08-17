@@ -1,0 +1,8 @@
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Utility\bin\Debug\Utility.dll
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Utility\bin\Debug\Utility.pdb
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Utility\obj\Debug\Utility.Messages.resources
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Utility\obj\Debug\Utility.csproj.GenerateResource.cache
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Utility\obj\Debug\Utility.dll
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Utility\obj\Debug\Utility.pdb

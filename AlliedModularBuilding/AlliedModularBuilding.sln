@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlliedModularBuilding", "AlliedModularBuilding\AlliedModularBuilding.csproj", "{8BE70695-6B01-4F60-9CEB-FBE3160FE011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{2833D447-AE73-404B-A7ED-177DDD4EC781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{AF58451A-B3AE-4390-A1B8-922364FB163C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{163E2E87-6325-4832-9CD4-E16AE9111B32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE70695-6B01-4F60-9CEB-FBE3160FE011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE70695-6B01-4F60-9CEB-FBE3160FE011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE70695-6B01-4F60-9CEB-FBE3160FE011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE70695-6B01-4F60-9CEB-FBE3160FE011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2833D447-AE73-404B-A7ED-177DDD4EC781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2833D447-AE73-404B-A7ED-177DDD4EC781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2833D447-AE73-404B-A7ED-177DDD4EC781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2833D447-AE73-404B-A7ED-177DDD4EC781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF58451A-B3AE-4390-A1B8-922364FB163C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF58451A-B3AE-4390-A1B8-922364FB163C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF58451A-B3AE-4390-A1B8-922364FB163C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF58451A-B3AE-4390-A1B8-922364FB163C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163E2E87-6325-4832-9CD4-E16AE9111B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163E2E87-6325-4832-9CD4-E16AE9111B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163E2E87-6325-4832-9CD4-E16AE9111B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163E2E87-6325-4832-9CD4-E16AE9111B32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F634514-50B4-4CFF-93C6-D1814E477D99}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs01.chetu.com/tfs/chetuprojects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AlliedModularBuilding\\AlliedModularBuilding.csproj
+		SccProjectName1 = AlliedModularBuilding
+		SccLocalPath1 = AlliedModularBuilding
+		SccProjectUniqueName2 = BL\\BL.csproj
+		SccProjectName2 = BL
+		SccLocalPath2 = BL
+		SccProjectUniqueName3 = Model\\Model.csproj
+		SccProjectName3 = Model
+		SccLocalPath3 = Model
+		SccProjectUniqueName4 = Utility\\Utility.csproj
+		SccProjectName4 = Utility
+		SccLocalPath4 = Utility
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Model\bin\Debug\Model.dll
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Model\bin\Debug\Model.pdb
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Model\obj\Debug\Model.dll
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Model\obj\Debug\Model.pdb
+E:\AlliedModularBuilding-CONT\AlliedModularBuilding\Model\obj\Debug\Model.csproj.AssemblyReference.cache
